@@ -36,11 +36,11 @@ The goal of this project is to use what you know about visualizations and probab
 | occupation | | Unemployed, Architecture & Engineering, Student, Education&Training&Library, Healthcare Support, Healthcare Practitioners & Technical, Sales & Related, Management, Arts Design Entertainment Sports & Media,Computer & Mathematical, Life Physical Social Science, Personal Care & Service, Community & Social Services,Office & Administrative Support, Construction & Extraction, Legal, Retired, Installation Maintenance & Repair, Transportation & Material Moving, Business & Financial, Protective Service, Food Preparation & Serving Related, Production Occupations, Building & Grounds Cleaning & Maintenance, Farming Fishing & Forestry |
 | income | | $37500 - $49999, $62500 - $74999, $12500 - $24999, $75000 - $87499, $50000 - $62499, $25000 - $37499, $100000 or More, $87500 - $99999, Less than $12500 |
 | car | | nan, Scooter and motorcycle, crossover, Mazda5, do not drive, Car that is too old to install Onstar :D |
-| Bar | Number of times that he/she goes to a bar | never, less1, 1~3, gt8, nan, 4~8 |
-| CoffeeHouse | Number of times that he/she goes to a coffee house | never, less1, 4~8, 1~3, gt8, nan |
-| CarryAway | Number of times that he/she buys takeaway food | nan, 4~8, 1~3, gt8, less1, never |
+| Bar | Number of times that he/she goes to a bar | never, less1, 1 ~ 3, gt8, nan, 4 ~ 8 |
+| CoffeeHouse | Number of times that he/she goes to a coffee house | never, less1, 4 ~ 8, 1 ~ 3, gt8, nan |
+| CarryAway | Number of times that he/she buys takeaway food | nan, 4 ~ 8, 1 ~ 3, gt8, less1, never |
 | RestaurantLessThan20 | Number of times that he/she eats at a restaurant with average expense less than $20 per person | 4~8, 1~3, less1, gt8, nan, never |
-| Restaurant20To50 | | 1~3, less1, never, gt8, 4~8, nan |
+| Restaurant20To50 | | 1 ~ 3, less1, never, gt8, 4 ~ 8, nan |
 | toCoupon_GEQ5min | | 1 |
 | toCoupon_GEQ15min | | 0, 1 |
 | toCoupon_GEQ25min | | 0, 1 |
