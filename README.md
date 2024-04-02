@@ -59,6 +59,15 @@ The goal of this project is to use what you know about visualizations and probab
 
 ## Coupons Utilization 
 
-## Techniques / Evaluation
-### Methodology
-### Results
+## Data Exploration
+- People are likely to visit bar in general, if they get a coupon (41% acceptance)
+- People who visit bar occassionaly (<3 / mo) are more likely to accept the bar coupon
+- People without accompanying Kids are more likely to accept the bar coupon
+- People not widowed are more likely to accept the bar coupon
+- Low income people are less likely to accept the bar coupon
+### Data Exploration
+- People are likely to buy coofee, if they get a coupon (50% acceptance)
+- People will more likely to buy coffee when temperature is above 55
+- Gender does not effect the decision
+- Coffee coupon are very much likely to be utilized in morning and afternoon
+- High income people (>50K) are highly likely to avail coupon when not alone
