@@ -15,7 +15,7 @@ Imagine driving through town and a coupon is delivered to your cell phone for a 
 Obviously, proximity to the business is a factor on whether the coupon is delivered to the driver or not, but what are the factors that determine whether a driver accepts the coupon once it is delivered to them? How would you determine whether a driver is likely to accept a coupon?
 The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
 ## Dataset
-- Record Count: 12684
+- Record Count: 12,684
 - Input Attributes: 25
 - Output Attributes: 1
 ### Data Attributes
@@ -49,8 +49,16 @@ The goal of this project is to use what you know about visualizations and probab
 | Y | | 1, 0 |
 
 ### Missing Values
+- The column "car" has over 90% null values (12,576) and can be dropped from the dataset
+- Following columns "Bar", "CoffeeHouse", "CarryAway", "RestaurantLessThan20", "Restaurant20To50" all have null values ranging from 1% to 2%. For these columns all the rows with null can be dropped.
+  - Bar                       107 nulls
+  - CoffeeHouse               217 nulls
+  - CarryAway                 151 nulls
+  - RestaurantLessThan20      130 nulls
+  - Restaurant20To50          189 nulls
 
-## Data Preprocessing
+## Coupons Utilization 
+
 ## Techniques / Evaluation
 ### Methodology
 ### Results
