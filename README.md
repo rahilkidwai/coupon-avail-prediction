@@ -30,10 +30,10 @@ The goal of this project is to use what you know about visualizations and probab
 | expiration | | 1d, 2h |
 | gender | Female, Male |
 | age | | 21, 46, 26, 31, 41, 50plus, 36, below21 |
-| maritalStatus | | Unmarried partner, Single,Married partner, Divorced, Widowed |
+| maritalStatus | | Unmarried partner, Single, Married partner, Divorced, Widowed |
 | has_children | | 1, 0 |
 | education | | Some college - no degree, Bachelors degree, Associates degree, High School Graduate, Graduate degree (Masters or Doctorate), Some High School |
-| occupation | Unemployed, Architecture & Engineering, Student, Education&Training&Library, Healthcare Support, Healthcare Practitioners & Technical, Sales & Related, Management, Arts Design Entertainment Sports & Media,Computer & Mathematical, Life Physical Social Science, Personal Care & Service, Community & Social Services,Office & Administrative Support, Construction & Extraction, Legal, Retired, Installation Maintenance & Repair, Transportation & Material Moving, Business & Financial, Protective Service, Food Preparation & Serving Related, Production Occupations, Building & Grounds Cleaning & Maintenance, Farming Fishing & Forestry |
+| occupation | | Unemployed, Architecture & Engineering, Student, Education&Training&Library, Healthcare Support, Healthcare Practitioners & Technical, Sales & Related, Management, Arts Design Entertainment Sports & Media,Computer & Mathematical, Life Physical Social Science, Personal Care & Service, Community & Social Services,Office & Administrative Support, Construction & Extraction, Legal, Retired, Installation Maintenance & Repair, Transportation & Material Moving, Business & Financial, Protective Service, Food Preparation & Serving Related, Production Occupations, Building & Grounds Cleaning & Maintenance, Farming Fishing & Forestry |
 | income | | $37500 - $49999, $62500 - $74999, $12500 - $24999, $75000 - $87499, $50000 - $62499, $25000 - $37499, $100000 or More, $87500 - $99999, Less than $12500 |
 | car | | nan, Scooter and motorcycle, crossover, Mazda5, do not drive, Car that is too old to install Onstar :D |
 | Bar | Number of times that he/she goes to a bar | never, less1, 1~3, gt8, nan, 4~8 |
