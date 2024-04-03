@@ -5,10 +5,11 @@
   - [Dataset](#dataset)
     - [Data Attributes](#data-attributes)
     - [Missing Values](#missing-values)
-  - [Data Preprocessing](#data-preprocessing)
-  - [Techniques / Evaluation](#techniques--evaluation)
-    - [Methodology](#methodology)
-    - [Results](#results)
+  - [Data Exploration](#data-exploration)
+    - [Coupons Utilization](#coupons-utilization)
+    - [Weather Histogram](#weather-histogram)
+    - [Bar visits utilizing coupons](#bar-visits-utilizing-coupons)
+    - [Coffee shop visits utilizing coupons](#coffee-shop-visits-utilizing-coupons)
 
 ## Problem Statement
 Imagine driving through town and a coupon is delivered to your cell phone for a restaraunt near where you are driving. Would you accept that coupon and take a short detour to the restaraunt? Would you accept the coupon but use it on a sunbsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaraunt? What about a coffee house? Would you accept a bar coupon with a minor passenger in the car? What about if it was just you and your partner in the car? Would weather impact the rate of acceptance? What about the time of day?
@@ -57,16 +58,22 @@ The goal of this project is to use what you know about visualizations and probab
   - RestaurantLessThan20      130 nulls
   - Restaurant20To50          189 nulls
 
-## Coupons Utilization 
-
 ## Data Exploration
+### Coupons Utilization 
+![Coupons Utilization](/images/coupons_utilization.png))
+
+### Weather Histogram
+![Weather Histogram](/images/weather_hist.png))
+
+### Bar visits utilizing coupons
 - People are likely to visit bar in general, if they get a coupon (41% acceptance)
-- People who visit bar occassionaly (<3 / mo) are more likely to accept the bar coupon
+- People who visit bar occasionally (<3 / mo) are more likely to accept the bar coupon
 - People without accompanying Kids are more likely to accept the bar coupon
 - People not widowed are more likely to accept the bar coupon
 - Low income people are less likely to accept the bar coupon
-### Data Exploration
-- People are likely to buy coofee, if they get a coupon (50% acceptance)
+
+### Coffee shop visits utilizing coupons
+- People are likely to buy coffee, if they get a coupon (50% acceptance)
 - People will more likely to buy coffee when temperature is above 55
 - Gender does not effect the decision
 - Coffee coupon are very much likely to be utilized in morning and afternoon
