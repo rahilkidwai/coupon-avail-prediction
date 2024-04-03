@@ -76,7 +76,7 @@ The goal of this project is to use what you know about visualizations and probab
 - People are likely to buy coffee, if they get a coupon (50% acceptance)
 - People will more likely to buy coffee when temperature is above 55
 - Gender does not effect the decision
-- Coffee coupon are very much likely to be utilized in morning and afternoon
 - High income people (>50K) are highly likely to avail coupon when not alone
+- Coffee coupon are very much likely to be utilized in morning and afternoon
 
 ![Coffee acceptance by time slot](/images/coffee_y_time_slot.png))
