@@ -78,3 +78,5 @@ The goal of this project is to use what you know about visualizations and probab
 - Gender does not effect the decision
 - Coffee coupon are very much likely to be utilized in morning and afternoon
 - High income people (>50K) are highly likely to avail coupon when not alone
+
+![Coffee acceptance by time slot](/images/coffee_uy_time_slot.png))
